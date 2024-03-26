@@ -1,2 +1,3 @@
 wp-projects/*
 !wp-projects/.gitkeep
+.env
