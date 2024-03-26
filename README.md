@@ -1,4 +1,7 @@
+
 # WordPress Theme Development Environment
+
+![docker-wordpress](https://github.com/khalednigrou/docker-wordpress/assets/4309858/70c4ec01-8498-4c7f-94ff-a85f6bf40ce0)
 
 This project provides a Docker-based environment to simplify the process of developing themes for WordPress projects. It leverages a pre-configured `docker-compose.yml` file to set up a WordPress instance, a MySQL database, and phpMyAdmin for database management, all running in isolated containers.
 
